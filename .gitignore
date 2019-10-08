@@ -1,2 +1,13 @@
 
 Trampoline.sln
+obj/Quest-Release/Trampoline.dll
+obj/Quest-Release/Trampoline.csprojAssemblyReference.cache
+obj/Quest-Release/Trampoline.csproj.FileListAbsolute.txt
+obj/Quest-Release/Trampoline.csproj.CoreCompileInputs.cache
+obj/PC-Debug/Trampoline.csprojAssemblyReference.cache
+obj/PC-Debug/Trampoline.csproj.CoreCompileInputs.cache
+.vs/Trampoline/v15/Server/sqlite3/storage.ide-wal
+.vs/Trampoline/v15/Server/sqlite3/storage.ide-shm
+.vs/Trampoline/v15/Server/sqlite3/storage.ide
+.vs/Trampoline/v15/Server/sqlite3/db.lock
+.vs/Trampoline/v15/.suo
